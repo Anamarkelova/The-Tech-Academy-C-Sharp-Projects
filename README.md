@@ -1,2 +1,1 @@
-# The-Tech-Academy-C-Sharp-Projects
-My coding projects and assignments completed during C# course.
+Welcome to my C# programming portfolio! This repository contains projects, exercises, and assignments I complete as a student at AOLCC.
